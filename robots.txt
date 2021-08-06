@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://lady-gaga-quotes.herokuapp.com/host-https-www.azquotes.com/sitemap.xml
+Sitemap: https://lady-gaga-quotes.herokuapp.com/sitemap/sitemap.xml
